@@ -13,7 +13,8 @@ const App = () => {
           title="NFT Mini Marketplace. Best Platform to Showcase Unique NFTs"
           description="Showcase, Snipe, & Sell Your Unique NFTs. Earn crypto, collect one of a kind NFTs. Join millions of people using the best NFT marketplace in the market."
           showBtn
-          mockupImg = {assets.feature4}
+          mockupImg = {assets.feature1}
+          banner="banner"
         />
       </>
     </div>

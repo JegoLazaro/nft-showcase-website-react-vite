@@ -6,6 +6,7 @@ import expo02 from "./expo02.png";
 import javascript from "./javascript.png";
 import react from "./react.png";
 import feature4 from "./feature4.png";
+import ios_qr from "./ios_nft_app_qr.svg"
 
 export default {
   feature1,
@@ -16,4 +17,5 @@ export default {
   expo02,
   javascript,
   react,
+  ios_qr
 };
