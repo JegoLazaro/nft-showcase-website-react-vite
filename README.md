@@ -31,7 +31,7 @@ Follow these steps to download and run the repository locally:
 Navigate to the Project Directory:
 
 ```
-cd nft-marketplace
+cd nft-showcase-react-vite
 ```
 Install Dependencies:
 ```
