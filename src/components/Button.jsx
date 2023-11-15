@@ -24,7 +24,7 @@ const Button = ({ assetUrl, link }) => {
         <img src={assetUrl} alt="expo_icon" className={styles.btnIcon} />
         <div className="flex flex-col justify-start ml-4">
           <p className={`${styles.btnText} font-normal text-xs`}>View it on</p>
-          <p className={`${styles.btnText} font-bold text-sm`}>Expo Store</p>
+          <p className={`${styles.btnText} font-bold text-sm sm:text-xs`}>Expo Store</p>
         </div>
       </div>
       <div className="">
@@ -44,7 +44,7 @@ const Button = ({ assetUrl, link }) => {
             alt="apple_icon"
             className={styles.btnIcon}
           />
-          <p className="text-white">IOS QR</p>
+          <p className="text-white sm:text-xs">IOS QR</p>
         </div>
         <div
           className={`${styles.btnBlack} h-12 active:bg-slate-700 ml-2`}
@@ -56,7 +56,7 @@ const Button = ({ assetUrl, link }) => {
             alt="apple_icon"
             className={styles.btnIcon}
           />
-          <p className="text-white">Android QR</p>
+          <p className="text-white sm:text-xs">Android QR</p>
         </div>
         </div>
       </div>
