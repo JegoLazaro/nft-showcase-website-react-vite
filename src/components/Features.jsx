@@ -2,7 +2,7 @@ import React from 'react';
 import assets from '../assets';
 import styles from '../assets/Global';
 
-const FeatureCard = ({iconUrl,iconText}) => (
+export const FeatureCard = ({iconUrl,iconText}) => (
   <div className={`${styles.featureCard}`}>
     <img src={iconUrl} alt='icon' className={`${styles.featureImg}`}/>
     <p className={`${styles.featureText}`}>{iconText}</p>

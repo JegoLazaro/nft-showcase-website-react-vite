@@ -13,6 +13,8 @@ import apple_logo from "./apple_logo.png"
 
 import android_logo from "./android_logo.png"
 
+import github_logo from "./github.png"
+
 
 export default {
   feature1,
@@ -26,5 +28,6 @@ export default {
   ios_qr,
   android_qr,
   apple_logo,
-  android_logo
+  android_logo,
+  github_logo
 };
