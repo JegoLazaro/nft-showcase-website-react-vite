@@ -7,6 +7,12 @@ import javascript from "./javascript.png";
 import react from "./react.png";
 import feature4 from "./feature4.png";
 import ios_qr from "./ios_nft_app_qr.svg"
+import android_qr from "./android_nft_app_qr.svg"
+
+import apple_logo from "./apple_logo.png"
+
+import android_logo from "./android_logo.png"
+
 
 export default {
   feature1,
@@ -17,5 +23,8 @@ export default {
   expo02,
   javascript,
   react,
-  ios_qr
+  ios_qr,
+  android_qr,
+  apple_logo,
+  android_logo
 };
