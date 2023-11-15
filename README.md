@@ -2,6 +2,8 @@
 
 Welcome to the repository for the NFT Mobile Application Showcase website built with React Native!
 
+- Deployed website link: https://nft-app-showcase-jgrl.netlify.app/ 
+
 ## Technologies Used
 - React
 - React Native
