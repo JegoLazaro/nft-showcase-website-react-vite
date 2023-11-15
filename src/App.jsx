@@ -24,6 +24,22 @@ const App = () => {
           // banner="banner"
           reverse
         />
+        <Features />
+        <SectionWrapper 
+          title="Deployment"
+          description="NFT Mini Marketplace. is built and deployed using Expo platform. This provides the application to run natively on both android and IOS devices."
+          showBtn
+          mockupImg = {assets.feature1}
+          banner="banner"
+        />
+        {/* <SectionWrapper 
+          title="Smart User Interface Marketplace"
+          description="Experience a modern and responsive UI of NFT Mini Marketplace. Sleak and stylish design and combination of colors for cleanest User Interface Design"
+          
+          mockupImg = {assets.feature2}
+          // banner="banner"
+          reverse
+        /> */}
       </>
     </div>
   );

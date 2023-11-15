@@ -6,7 +6,7 @@ import Button from "./Button";
 const SectionWrapper = ({ title, description, showBtn, mockupImg, banner, reverse }) => {
   return (
     <div
-      className={`min-h-screen mb-20 ${styles.section} ${reverse? styles.bgWhite : ' bg-cyan-700'} ${banner} `}
+      className={`min-h-screen  ${styles.section} ${reverse? styles.bgWhite : ' bg-cyan-700'} ${banner} `}
     >
       <div className={`flex items-center ${reverse ? styles.boxReverseClass: styles.boxClass} w-11/12 sm:w-full minmd:3/4`}>
         <div className={` ${styles.descDiv} ${reverse ? 'fadeRightMini' : 'fadeLeftMini' } 

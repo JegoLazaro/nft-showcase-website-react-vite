@@ -4,7 +4,7 @@ import feature3 from "./feature3.png";
 import expo from "./expo.png";
 import expo02 from "./expo02.png";
 import javascript from "./javascript.png";
-import react from "./react.png";
+import react from "./react-native-logo.png";
 import feature4 from "./feature4.png";
 import ios_qr from "./ios_nft_app_qr.svg"
 import android_qr from "./android_nft_app_qr.svg"
