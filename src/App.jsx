@@ -47,7 +47,7 @@ const App = () => {
             Earn, Collect, Enjoy – Your gateway to the best NFT marketplace. 
           </p>
           <p className={`text-sm ${styles.blackText} font-bold`}>
-          © [nft-app-showcase-jgrl.netlify.app/] [2023]
+          © JGRL17 - 2023
           </p>
         </div>
       </>

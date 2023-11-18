@@ -15,6 +15,8 @@ import android_logo from "./android_logo.png"
 
 import github_logo from "./github.png"
 
+import figma_logo from "./figma_logo.png"
+
 
 export default {
   feature1,
@@ -29,5 +31,6 @@ export default {
   android_qr,
   apple_logo,
   android_logo,
-  github_logo
+  github_logo,
+  figma_logo,
 };
